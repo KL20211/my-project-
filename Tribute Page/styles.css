@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background: coral;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    color:black;
+}
+
+p{
+ color:Yellow;
+}
